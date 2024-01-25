@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.products-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  margin-top: 100px;
+}
+.pdt-image {
+  height: 250px;
+  width: 250px;
+}
